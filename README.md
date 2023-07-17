@@ -1,5 +1,5 @@
 
-Live Link - [LINK](youtuubeclone.netlify.app)
+Live Link - youtuubeclone.netlify.app
 
 # Getting Started with Create React App
 
